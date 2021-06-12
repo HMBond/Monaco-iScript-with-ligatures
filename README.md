@@ -8,4 +8,7 @@ Monaco font including iScript italic (comments) and ligatures (==) for vs-code a
 
 Download or clone this repository and install the fonts on your system.
 
-In your editor of choice set the font to `Fira Code iScript`.  Also, ensure that the current theme and syntax highlighting utilize italic.
+In your editor of choice set the font to `Monaco iScript for Powerline`.  Also, ensure that the current theme and syntax highlighting utilize italic.
+
+## Thanks to Ken Crocken and Gian Castle
+This font is a combination of [FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) and [FiraMonaco](https://github.com/GianCastle/FiraMonaco)
